@@ -1,0 +1,72 @@
+selettore {
+  proprietà; valore;
+  proprietà: valore;
+}
+
+body {
+  background-image: url("background.boolean.jpg");
+  background-size: cover;
+  background-blend-mode: darken;
+  color: white;
+  font-family: "Albert Sans", sans-serif;
+}
+
+h1 {
+  color: lime;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+  text-align: left;
+}
+
+.logo {
+  width: 250px;
+}
+
+.logo-text {
+  font-size: 30px;
+}
+
+.row {
+  background-color: lime;
+  padding: 10px;
+}
+
+.incolonnamento-sinistra {
+  text-align: left;
+}
+
+
+.incolonnamento-centro {
+  text-align: center;
+}
+
+h2 {
+  display: inline-block;
+}
+
+.row-1 {
+  color: transparent;
+  background-color: #FFF536;
+  width: 45%;
+  border-radius: 45px;
+  padding: 3px;
+}
+
+.row-2 {
+  color: transparent;
+  background-color: #00FF1C;
+  width: 70%;
+  border-radius: 45px;
+  padding: 3px;
+}
+
+.row-3 {
+  color: transparent;
+  background-color: #FF000C;
+  width: 21%;
+  border-radius: 45px;
+  padding: 3px;
+}
